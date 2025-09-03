@@ -8,9 +8,7 @@ while(i<10)
              printf("%d\n",i);
              printf("hello world\n");
              i++;
-
            }
-
 return 0;
 
 

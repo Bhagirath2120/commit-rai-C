@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("ahgduajsdhwedwcededcjnc hhcdchsdk");
+printf("hello kalu bhai");
 return 0;
 
 }
